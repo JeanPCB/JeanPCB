@@ -6,8 +6,8 @@
 - 😄 Pronomes: ele/dele
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanPCB&show_icons=true&theme=highcontrast" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPCB&theme=highcontrast" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JeanPCB&show_icons=true&theme=highcontrast" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPCB&theme=highcontrast" />
 </div>
 
 <br>
