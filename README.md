@@ -3,7 +3,6 @@
 - 🌱 Estudando Javascript...
 - 😆 Sempre procurando saber mais sobre programação!
 - 📫 Contate-me no email: jeanpcbdev@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JeanPCB&show_icons=true&theme=highcontrast" />
