@@ -1,4 +1,4 @@
-## Oi! Sou o Jean :)
+## Oi! Eu sou o Jean :)
 
 - 📚 Estudando Javascript...
 - 😆 Sempre procurando saber mais sobre programação!
