@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Jean :)
 
 - 📚 Atualmente, estudando Javascript...
-- 😆 Sempre procurando saber mais sobre programação!
+- 😆 Sempre procurando saber mais sobre tecnologia!
 - 📫 Contate-me no email: jeanpcbdev@gmail.com
 
 <div>
