@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Jean :)
 
-- 📚 Atualmente, estudando: Javascript, Prompt de Comando, CompTIA A+ ...
+- 📚 Atualmente, estudando Javascrip e abrindo o escopo de estudo com Prompt de Comando e CompTIA A+ ...
 - 😆 Sempre procurando saber mais sobre tecnologia!
 - 📫 Contate-me no email: jeanpcbdev@gmail.com
 
