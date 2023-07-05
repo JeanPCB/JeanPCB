@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Jean :)
 
-- 📚 Estudando: Javascript | Prompt de Comando | CompTIA A+ ...
+- 📚 Estudando: Javascript | Git & Github | CLI ...
 - 😆 Sempre procurando saber mais sobre tecnologia!
 - 📫 Contate-me no email: jeanpcbdev@gmail.com
 
