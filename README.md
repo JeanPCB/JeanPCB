@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Jean :)
 
-- 📚 Estudando: Javascript | Git & Github | CLI ...
+- 📚 Estudando: PHP
 - 😆 Sempre procurando saber mais sobre tecnologia!
 - 📫 Contate-me no email: jeanpcbdev@gmail.com
 
