@@ -1,4 +1,4 @@
-## Hey there! I am Jean :)
+## Hey there!
 
 - 📚 Studying: JavaScript
 - 📫 Email: jeanpcbdev@gmail.com
