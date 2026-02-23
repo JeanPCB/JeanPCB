@@ -1,4 +1,2 @@
-## Hey there!
-
-- 📚 Studying: JavaScript
+- 📚 Estudando: JavaScript
 - 📫 Email: jeanpcbdev@gmail.com
