@@ -1,2 +1,2 @@
-- 📚 Estudando: JavaScript
+- 📚 Estudando: Python e JavaScript
 - 📫 Email: jeanpcbdev@gmail.com
