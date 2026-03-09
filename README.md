@@ -2,7 +2,11 @@
 
 <p align="center">Sinta-se à vontade para navegar pelo perfil deste jovem entusiasta de tecnologia.<br>Visita sempre é bem-vinda aqui 😉</p>
 
+###
+
 <h2 align="center">Tech Stack</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
